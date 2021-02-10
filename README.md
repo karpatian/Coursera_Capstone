@@ -6,11 +6,11 @@ Capstone Project Assignment
 
 Neighbourhoods of Toronto Map
 
-![Neighbourhoods_Toronto_1.png](attachment:Neighbourhoods_Toronto_1.png)
+![](/Neighbourhoods_Toronto_1.png)
 
 k Means Clustering Neighbourhoods of Toronto Map
 
-![k_Means_Toronto_2.png](attachment:k_Means_Toronto_2.png)
+![](/k_Means_Toronto_2.png)
 
 
 ```python
